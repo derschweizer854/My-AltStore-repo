@@ -26,7 +26,7 @@
           "downloadURL": "https://cdn.classicube.net/client/latest/ClassiCube.ipa",
           "size": 700000,
           "version": "1.0.0",
-          "buildVersion": null,
+          "buildVersion": "1",
           "date": "2026-02-21T15:16:00+01:00",
           "localizedDescription": null,
           "minOSVersion": "9.0"
