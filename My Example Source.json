@@ -21,15 +21,15 @@
       "tintColor": "#6156e2",
       "category": "other",
       "screenshots": [],
-      "versions": [
+      "versions": [ 
         {
           "downloadURL": "https://cdn.classicube.net/client/latest/ClassiCube.ipa",
           "size": 700000,
-          "version": "1.0",
+          "version": "1.0.0",
           "buildVersion": null,
           "date": "2026-02-21T15:16:00+01:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "9.0"
         }
       ],
       "appPermissions": {
