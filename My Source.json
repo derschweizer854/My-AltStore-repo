@@ -1,0 +1,73 @@
+{
+  "name": "My Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/71COOLf.png",
+      "tintColor": "#d02e2e",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1Me0WbcJld1P2w8Yc3jyhPNkpQBFtqSx4&export=download&authuser=0",
+          "size": 108200000,
+          "version": "2.2",
+          "buildVersion": null,
+          "date": "2026-02-22T10:51:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "PojavLauncher uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "PojavLauncher uses the microphone to enable support for voice chat mods."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ClassiCube",
+      "bundleIdentifier": "com.classicube.client.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://drive.usercontent.google.com/download?id=12PEghd2J0FebRe15GlTagUDrfXy1j1Wc&export=download&authuser=0",
+          "size": 700000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-02-22T10:47:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": "9.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Saving screenshot"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
